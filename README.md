@@ -55,6 +55,6 @@ To contribute to this project please make a new issue or pull request.
 
 Follow the usage instructions for seeding the project.
 
-## Questions
+## Questions?
 
 Contact Amy McCabe at: [mcca0168@umn.edu](mailto:mcca0168@umn.edu) or [GitHub](https://github.com/McAmy2001/)
