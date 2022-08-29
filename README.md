@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## This is a web application for users to post their thoughts on all things about hiking trails. The app is located on Heroku at [https://takea-hike.herokuapp.com/](https://takea-hike.herokuapp.com/).
+## This is a web application for users to post their thoughts on all things about hiking trails. The app is located on Heroku at [https://mcamy2001-take-a-hike.herokuapp.com/](https://mcamy2001-take-a-hike.herokuapp.com/).
 
 ## Table of Contents:
 
@@ -17,7 +17,7 @@
 
 ## Installation
 
-Clone the repository from [GitHub](https://github.com/willig0203/Take-A-Hike) onto your machine in a local folder. This program will require Node.js and MySQL. Install node.js: [Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs). Install MySQL: [Installation Guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide). From the root of the project folder do an npm (Node Package Manager) install to get the package dependencies (type `npm install` on the command line). Dependencies used are: bcrypt, bulma, cloudinary, connect-session, connect-session-sequelize, dotenv, express, express-handlebars, express-session, express-session-sequelize, jest, mysql, mysql2, and sequelize.
+Clone the repository from [GitHub](https://github.com/McAmy2001/Take-A-Hike-2) onto your machine in a local folder. This program will require Node.js and MySQL. Install node.js: [Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs). Install MySQL: [Installation Guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide). From the root of the project folder do an npm (Node Package Manager) install to get the package dependencies (type `npm install` on the command line). Dependencies used are: bcrypt, bulma, cloudinary, connect-session, connect-session-sequelize, dotenv, express, express-handlebars, express-session, express-session-sequelize, jest, mysql, mysql2, and sequelize.
 
 ## Usage
 
@@ -25,7 +25,7 @@ Step one: From the command line enter into MySQL using the command `mysql -u roo
 
 OR
 
-Use the live app on Heroku: [https://taka-hike.herokuapp.com/](https://takea-hike.herokuapp.com/)
+Use the live app on Heroku: [https://mcamy2001-take-a-hike.herokuapp.com/](https://mcamy2001-take-a-hike.herokuapp.com/)
 
 ## Screenshots
 
