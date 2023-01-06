@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## This is a web application for users to post their thoughts on all things about hiking trails. The app is located on Heroku at [https://mcamy2001-take-a-hike.herokuapp.com/](https://mcamy2001-take-a-hike.herokuapp.com/).
+## This is a web application for users to post their thoughts on all things about hiking trails. Watch a demo [here](https://drive.google.com/file/d/1LRUDjDxmAqvSzSuLUa-ZjrTZWKCeawjh/view?usp=sharing).
 
 ## Table of Contents:
 
@@ -22,10 +22,6 @@ Clone the repository from [GitHub](https://github.com/McAmy2001/Take-A-Hike-2) o
 ## Usage
 
 Step one: From the command line enter into MySQL using the command `mysql -u root -p` and then enter your password. Step two: Enter `source db/schema.sql` to initialize the database. Exit MySQL. Step three (optional): Seed the database using the command: `npm seeds` or `node seeds/index.js`. Step four: Enter `npm start` or `node server.js` to start the server. Step five: Enter localhost:3001 in your browser. Voila!
-
-OR
-
-Use the live app on Heroku: [https://mcamy2001-take-a-hike.herokuapp.com/](https://mcamy2001-take-a-hike.herokuapp.com/)
 
 ## Screenshots
 
