@@ -1,4 +1,4 @@
-# Bootcamp Modules 15 & 16, Group Project: Take a Hike
+# Take A Hike
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Technologies](#technologies)
 - [License](#license)
 - [Collaborators](#collaborators)
 - [Contributing](#contributing)
@@ -32,6 +33,20 @@ Step one: From the command line enter into MySQL using the command `mysql -u roo
 |         <b>Image running on a mobile device</b>          |
 | :------------------------------------------------------: |
 | ![space-2.jpg](./assets/images/homescreenshotmobile.jpg) |
+
+## Technologies
+- Javascript
+- HTML
+- CSS / [Bulma](https://bulma.io/)
+- [Express.js](https://expressjs.com/)
+- [Express-handlebars](https://www.npmjs.com/package/express-handlebars)
+- [Express-session](https://www.npmjs.com/package/express-session)
+- [Cloudinary](https://cloudinary.com/)
+- [MySQL](https://www.npmjs.com/package/mysql)
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [Sequelize](https://sequelize.org/)
+- [Connect-session](https://www.npmjs.com/package/connect-session)
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
 
 ## License
 
